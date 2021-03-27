@@ -1,12 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project entails how to manage state on a react app using react-hooks and context api . You can find a detailed description in [sitepoint](https://www.sitepoint.com/replace-redux-react-hooks-context-api/).
 
-## Available Scripts
+## Set up Project
+Clone the project using `git clone https://cloneurl` or download the zip file
 
-In the project directory, you can run:
+Run the command below to install node modules
+### `npm install`
 
+Run the command below to start the application
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -39,19 +43,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Technologies used
+### Reactjs
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
@@ -68,3 +67,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Bugs encountered
+Fix up responsiveness
+
+## Support and contact details
+Email me at [brianwachira7@gmail.com](www.gmail.com)
+
+## License
+#### MIT License
+You can check out the full license [here](https://github.com/brianwachira/contacts-context-reducer-example/blob/master/LICENSE.md)  
+
+Copyright (c) 2021 brianwachira
