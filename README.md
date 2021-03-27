@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Contacts App
 
 This project entails how to manage state on a react app using react-hooks and context api . You can find a detailed description in [sitepoint](https://www.sitepoint.com/replace-redux-react-hooks-context-api/).
 
