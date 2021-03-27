@@ -7,7 +7,7 @@ const initialState = {
     {
       id: "098",
       name: "Diana Prince",
-      email: "diana@us.army.mil"
+      email: "diana@amazon.world"
     },
     {
       id: "099",
