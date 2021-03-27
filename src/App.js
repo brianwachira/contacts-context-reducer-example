@@ -1,11 +1,14 @@
 import React from "react";
-import { Container } from "semantic-ui-react";
+import { Container,Header } from "semantic-ui-react";
 import ContactView from "./views/contact-view";
 
 export default function App() {
   return (
-    <Container>
-      <h1>React Hooks Context Demo</h1>
+    <Container style={{ height: '100vh', display: 'grid'}} verticalAlign='middle'>
+      
+      <Header  style={{ display: 'grid', alignItems:'center'}} textAlign='center'>
+        <h1 textAlign='center'>React Hooks Context Demo</h1>
+      </Header>
       <ContactView />
     </Container>
   );
